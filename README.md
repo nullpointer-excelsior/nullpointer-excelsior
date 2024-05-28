@@ -1,4 +1,6 @@
-## Hi there 👋
+## Software engineer 🦁
+
+Distributed systems developer, fullstack and Linux user
 
 <!--
 **nullpointer-excelsior/nullpointer-excelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
